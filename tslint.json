@@ -1,0 +1,7 @@
+{
+  "extends": "tslint.base.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "ngWp", "camelCase"],
+    "component-selector": [true, "element", "ngWp", "kebab-case"]
+  }
+}
