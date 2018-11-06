@@ -12,3 +12,4 @@ export * from './lib/services/ng-wp-comments.service';
 export * from './lib/services/ng-wp-media.service';
 export * from './lib/services/ng-wp-pages.service';
 export * from './lib/services/ng-wp-posts.service';
+export * from './lib/services/ng-wp-users.service';
